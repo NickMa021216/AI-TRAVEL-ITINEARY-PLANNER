@@ -1,0 +1,9 @@
+venv/
+.env
+logs/
+AI_TRAVEL_AGENT.egg-info/
+.venv/
+venv/
+__pycache__/
+*.pyc
+logs/
